@@ -1,0 +1,9 @@
+{
+  "5abe8ece-e79c-4b00-b3a2-8d914a297c11": {
+    "ip": "127.0.0.1",
+    "port": 5001,
+    "aplicatii": [
+      "test.txt"
+    ]
+  }
+}
